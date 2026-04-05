@@ -9,4 +9,12 @@
   <url><loc>https://minneapolisbankruptcy.org/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://minneapolisbankruptcy.org/statistics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://minneapolisbankruptcy.org/resources.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://minneapolisbankruptcy.org/es.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://minneapolisbankruptcy.org/counties.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://minneapolisbankruptcy.org/counties/hennepin-county.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://minneapolisbankruptcy.org/counties/ramsey-county.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://minneapolisbankruptcy.org/counties/dakota-county.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://minneapolisbankruptcy.org/counties/anoka-county.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://minneapolisbankruptcy.org/district-lookup.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://minneapolisbankruptcy.org/legal-aid.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
