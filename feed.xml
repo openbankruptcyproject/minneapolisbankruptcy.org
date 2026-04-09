@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>minneapolisbankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://minneapolisbankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://minneapolisbankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://minneapolisbankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Minneapolis Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://minneapolisbankruptcy.org/" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Minneapolis bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The Automatic Stay in Minneapolis Bankruptcy</title>
+    <link href="https://minneapolisbankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn how the automatic stay protects Minneapolis residents when filing bankruptcy.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Account and Bankruptcy in Minneapolis</title>
+    <link href="https://minneapolisbankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Minneapolis. Protecting funds, bank freezes, exemptions, and what Minnesota filers need to know.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13? -- Minneapolis</title>
+    <link href="https://minneapolisbankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You need trustee approval and a court motion to purchase a vehicle during Chapter 13. [Minneapolis]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Minneapolis</title>
+    <link href="https://minneapolisbankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When and how to buy a house after bankruptcy in Minneapolis. FHA, VA, USDA waiting periods and credit rebuilding for Minnesota homebuyers.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy -- Minneapolis</title>
+    <link href="https://minneapolisbankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. [Minneapolis]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Eligibility in Minneapolis | Requirements &amp; Debt Limits</title>
+    <link href="https://minneapolisbankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility in Minneapolis. Debt limits, income requirements, and qualification criteria for Minnesota filers in the District of Minnesota.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Minneapolis | How Much Will You Pay?</title>
+    <link href="https://minneapolisbankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 plan payments are calculated in Minneapolis. Disposable income, best interest test, payment timeline for District of Minnesota filers.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Minneapolis -- Payment Plans, Dismissal Rates, Timeline</title>
+    <link href="https://minneapolisbankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Minneapolis. Payment plan basics, D. Minn. dismissal rate (35.4%), timeline, 3-5 year commitment, and what to expect.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 7 Eligibility in Minneapolis | Means Test &amp; Requirements</title>
+    <link href="https://minneapolisbankruptcy.org/chapter-7-eligibility.html" rel="alternate"/>
+    <id>https://minneapolisbankruptcy.org/chapter-7-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Find out if you qualify for Chapter 7 bankruptcy in Minneapolis. Means test thresholds, income limits, and requirements for Minnesota filers.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
