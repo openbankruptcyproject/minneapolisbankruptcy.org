@@ -1,55 +1,78 @@
-# Minneapolis Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+# Minneapolis Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 > Free Minneapolis bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
 ## About
 minneapolisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Minneapolis Bankruptcy -- Chapter 7 & 13 Filing Guide: https://minneapolisbankruptcy.org/
-- Chapter 7 Bankruptcy in Minneapolis -- Eligibility, Exemptions, Timeline: https://minneapolisbankruptcy.org/chapter-7.html
-- Chapter 13 Bankruptcy in Minneapolis -- Payment Plans, Dismissal Rates, Timeline: https://minneapolisbankruptcy.org/chapter-13.html
-- Minnesota Bankruptcy Exemptions -- What You Can Keep -- Minneapolis: https://minneapolisbankruptcy.org/exemptions.html
-- How Much Does Bankruptcy Cost in Minneapolis? -- Filing Fees, Attorney Fees: https://minneapolisbankruptcy.org/cost.html
-- What to Expect When Filing Bankruptcy -- Timeline, 341 Meeting, Discharge -- Minneapolis: https://minneapolisbankruptcy.org/what-to-expect.html
-- Minneapolis Bankruptcy FAQ -- 18 Common Questions Answered: https://minneapolisbankruptcy.org/faq.html
-- Minneapolis Bankruptcy Statistics -- 35,287 Cases Analyzed: https://minneapolisbankruptcy.org/statistics.html
-- Minneapolis Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://minneapolisbankruptcy.org/resources.html
-- Bankruptcy by County -- Minneapolis Metro Area: https://minneapolisbankruptcy.org/counties.html
-- Bankruptcy in Hennepin County -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/counties/hennepin-county.html
-- Bankruptcy in Ramsey County -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/counties/ramsey-county.html
-- Bankruptcy in Dakota County -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/counties/dakota-county.html
-- Bankruptcy in Anoka County -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/counties/anoka-county.html
-- Find Your Bankruptcy District -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/district-lookup.html
-- Free Legal Help for Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/legal-aid.html
-- Bankruptcy by City -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/
-- Bankruptcy in St. Paul, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/st-paul.html
-- Bankruptcy in Bloomington, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/bloomington.html
-- Bankruptcy in Brooklyn Park, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/brooklyn-park.html
-- Bankruptcy in Plymouth, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/plymouth.html
-- Bankruptcy in Eagan, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/eagan.html
-- Bankruptcy in Burnsville, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/burnsville.html
-- Bankruptcy in Eden Prairie, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/eden-prairie.html
-- Bankruptcy in Maple Grove, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/maple-grove.html
-- Bankruptcy in Woodbury, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/woodbury.html
-- Bankruptcy in Lakeville, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/lakeville.html
-- Bankruptcy in Blaine, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/blaine.html
-- Bankruptcy in Duluth, MN -- Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/duluth.html
-- Emergency Bankruptcy Filing in Minneapolis: https://minneapolisbankruptcy.org/emergency-bankruptcy.html
-- Divorce and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/divorce-and-bankruptcy.html
-- Credit Card Debt and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/credit-card-debt.html
-- Converting Between Chapters in Minneapolis: https://minneapolisbankruptcy.org/converting-chapters.html
-- Chapter 7 Eligibility in Minneapolis | Means Test & Requirements: https://minneapolisbankruptcy.org/chapter-7-eligibility.html
-- Chapter 13 Eligibility in Minneapolis | Requirements & Debt Limits: https://minneapolisbankruptcy.org/chapter-13-eligibility.html
-- Buying a House After Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/buying-a-house.html
-- Bankruptcy Glossary | Minneapolis Bankruptcy Terms: https://minneapolisbankruptcy.org/glossary.html
-- Payday Loans and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/payday-loans.html
-- Judgments and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/judgments.html
-- Second Mortgage and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/second-mortgage.html
+- The Automatic Stay in Minneapolis Bankruptcy: https://minneapolisbankruptcy.org/automatic-stay.html
 - Bank Account and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/bank-account.html
+- Can I Buy a Car While in Chapter 13? - Minneapolis: https://minneapolisbankruptcy.org/buy-car-chapter-13.html
+- Buying a House After Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/buying-a-house.html
+- Car Leases and Bankruptcy - Minneapolis: https://minneapolisbankruptcy.org/car-lease.html
+- Chapter 13 Eligibility in Minneapolis | Requirements & Debt Limits: https://minneapolisbankruptcy.org/chapter-13-eligibility.html
 - Chapter 13 Payments in Minneapolis | How Much Will You Pay?: https://minneapolisbankruptcy.org/chapter-13-payments.html
-- Bankruptcy Income Limits in Minneapolis | Minnesota Median Income: https://minneapolisbankruptcy.org/income-limits.html
+- Chapter 13 Bankruptcy in Minneapolis - Payment Plans, Dismissal Rates, Timeline: https://minneapolisbankruptcy.org/chapter-13.html
+- Chapter 7 Eligibility in Minneapolis | Means Test & Requirements: https://minneapolisbankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 Bankruptcy in Minneapolis - Eligibility, Exemptions, Timeline: https://minneapolisbankruptcy.org/chapter-7.html
+- Bankruptcy in Blaine, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/blaine.html
+- Bankruptcy in Bloomington, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/bloomington.html
+- Bankruptcy in Brooklyn Park, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/brooklyn-park.html
+- Bankruptcy in Burnsville, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/burnsville.html
+- Bankruptcy in Duluth, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/duluth.html
+- Bankruptcy in Eagan, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/eagan.html
+- Bankruptcy in Eden Prairie, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/eden-prairie.html
+- Bankruptcy by City - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/
+- Bankruptcy in Lakeville, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/lakeville.html
+- Bankruptcy in Maple Grove, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/maple-grove.html
+- Bankruptcy in Plymouth, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/plymouth.html
+- Bankruptcy in St. Paul, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/st-paul.html
+- Bankruptcy in Woodbury, MN - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/cities/woodbury.html
+- Converting Between Chapters in Minneapolis: https://minneapolisbankruptcy.org/converting-chapters.html
+- How Much Does Bankruptcy Cost in Minneapolis? - Filing Fees, Attorney Fees: https://minneapolisbankruptcy.org/cost.html
+- Bankruptcy by County - Minneapolis Metro Area: https://minneapolisbankruptcy.org/counties.html
+- Bankruptcy in Anoka County - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/counties/anoka-county.html
+- Bankruptcy in Dakota County - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/counties/dakota-county.html
+- Bankruptcy in Hennepin County - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/counties/hennepin-county.html
+- Bankruptcy in Ramsey County - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/counties/ramsey-county.html
+- Minneapolis Federal Bankruptcy Court Guide - D. Minnesota Filing Information: https://minneapolisbankruptcy.org/court-guide.html
+- Rebuilding Credit After Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/credit-after-bankruptcy.html
+- Credit Card Debt and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/credit-card-debt.html
+- Using Credit Cards Before Filing Bankruptcy - Minneapolis: https://minneapolisbankruptcy.org/credit-cards-before-filing.html
+- Debtor Education in Minneapolis - Minnesota Credit Counseling &amp; Financial Management: https://minneapolisbankruptcy.org/debtor-education.html
 - Bankruptcy Disqualifications in Minneapolis | What Prevents Filing: https://minneapolisbankruptcy.org/disqualifications.html
-- Minneapolis Federal Bankruptcy Court Guide -- D. Minnesota Filing Information: https://minneapolisbankruptcy.org/court-guide.html
+- Find Your Bankruptcy District - Minneapolis Bankruptcy Guide: https://minneapolisbankruptcy.org/district-lookup.html
+- Divorce and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/divorce-and-bankruptcy.html
+- Emergency Bankruptcy Filing in Minneapolis: https://minneapolisbankruptcy.org/emergency-bankruptcy.html
+- Bankruptcy and Employment: Can You Get Fired? - Minneapolis: https://minneapolisbankruptcy.org/employment.html
+- Can I Keep My Engagement Ring in Bankruptcy? - Minneapolis: https://minneapolisbankruptcy.org/engagement-ring.html
+- Can Bankruptcy Stop an Eviction? - Minneapolis: https://minneapolisbankruptcy.org/eviction.html
+- Minnesota Bankruptcy Exemptions - What You Can Keep - Minneapolis: https://minneapolisbankruptcy.org/exemptions.html
+- Minneapolis Bankruptcy FAQ - 18 Common Questions Answered: https://minneapolisbankruptcy.org/faq.html
+- How to Find Out if Someone Filed Bankruptcy - Minneapolis: https://minneapolisbankruptcy.org/find-bankruptcy-filing.html
+- Bankruptcy Glossary | Minneapolis Bankruptcy Terms: https://minneapolisbankruptcy.org/glossary.html
+- Bankruptcy Income Limits in Minneapolis | Minnesota Median Income: https://minneapolisbankruptcy.org/income-limits.html
+- Minneapolis Bankruptcy - Chapter 7 & 13 Filing Guide: https://minneapolisbankruptcy.org/
+- Judgments and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/judgments.html
+- Free Legal Help for Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/legal-aid.html
+- Minneapolis Means Test: Do You Qualify for Chapter 7?: https://minneapolisbankruptcy.org/means-test.html
+- Can I File Bankruptcy on Medical Debt Only? - Minneapolis: https://minneapolisbankruptcy.org/medical-debt-only.html
+- Payday Loans and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/payday-loans.html
+- Can I Undo a Reaffirmation Agreement? - Minneapolis: https://minneapolisbankruptcy.org/reaffirmation-regret.html
+- Renting an Apartment After Bankruptcy - Minneapolis: https://minneapolisbankruptcy.org/renting-after-bankruptcy.html
+- Can Bankruptcy Remove a Repossession From Your Credit? - Minneapolis: https://minneapolisbankruptcy.org/repo-credit-report.html
+- Minneapolis Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://minneapolisbankruptcy.org/resources.html
+- Can I Keep My 401k and Retirement in Bankruptcy? - Minneapolis: https://minneapolisbankruptcy.org/retirement-accounts.html
+- Second Mortgage and Bankruptcy in Minneapolis: https://minneapolisbankruptcy.org/second-mortgage.html
+- Bankruptcy and Security Clearance - Minneapolis: https://minneapolisbankruptcy.org/security-clearance.html
+- Minneapolis Bankruptcy Statistics - 35,287 Cases Analyzed: https://minneapolisbankruptcy.org/statistics.html
+- What Bills Can I Stop Paying Before Filing? - Minneapolis: https://minneapolisbankruptcy.org/stop-paying-bills.html
+- Surrendering Your Car in Bankruptcy - Minneapolis: https://minneapolisbankruptcy.org/surrender-car.html
+- Will the Chapter 13 Trustee Take My Tax Refund? - Minneapolis: https://minneapolisbankruptcy.org/tax-refund-chapter13.html
+- Timeshares and Bankruptcy - Minneapolis: https://minneapolisbankruptcy.org/timeshare.html
+- Can I Travel During Chapter 13? - Minneapolis: https://minneapolisbankruptcy.org/travel-chapter-13.html
+- What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Minneapolis: https://minneapolisbankruptcy.org/what-to-expect.html
+- Privacy Policy: https://minneapolisbankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
