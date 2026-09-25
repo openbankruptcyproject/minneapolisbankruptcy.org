@@ -1,6 +1,6 @@
 # minneapolisbankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on minneapolisbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -21,6 +21,8 @@ The Automatic Stay in Minneapolis Bankruptcy
 The moment you file bankruptcy in the D. Minn., a powerful federal court order called the automatic stay goes into effect. It immediately stops most creditor actions against you.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The automatic stay is a federal court order under 11 U.S.C. section 362 that takes effect the instant you file bankruptcy. It stops most collection actions including wage garnishment, foreclosure, repossession, lawsuits, and creditor calls.
 
 What the Automatic Stay Stops Immediately
 
@@ -153,15 +155,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -186,6 +206,8 @@ Your Bank Account and Bankruptcy in Minneapolis
 Filing bankruptcy raises questions about bank freezes, fund seizure, and account protection. Here is what Minneapolis residents need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Only if you owe money to that bank. If not, your account should not be frozen. To be safe, open an account at a bank where you have no debts.
 
 Will My Bank Account Be Frozen?
 
@@ -288,15 +310,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -319,6 +359,8 @@ Home›Can I Buy a Car While in Chapter 13?
 Can I Buy a Car While in Chapter 13?
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
+
+You need trustee approval and a court motion to purchase a vehicle during Chapter 13. The trustee will evaluate whether the purchase is necessary and whether the payment fits your budget. Interest rates are typically higher. Used vehicles are more likely to be approved.
 
 What You Need to Know
 
@@ -363,13 +405,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -394,6 +456,8 @@ Buying a House After Bankruptcy in Minneapolis
 Bankruptcy does not permanently prevent homeownership. Here are the waiting periods, loan options, and steps for Minneapolis area homebuyers.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+FHA: 2 years after Ch. 7 discharge, 1 year into Ch. 13 plan. Conventional: 4 years. Extenuating circumstances may shorten FHA to 1 year.
 
 Waiting Periods by Loan Type
 
@@ -498,15 +562,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -529,6 +611,8 @@ Home›Car Leases and Bankruptcy
 Car Leases and Bankruptcy
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
+
+You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. If you are current on payments, you can typically keep the lease by assuming it. If behind, rejection discharges the remaining obligation. Lease buyout may be an option if you want to own the vehic
 
 What You Need to Know
 
@@ -573,13 +657,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -591,7 +695,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Chapter 13 Eligibility in Minneapolis | Requirements & Debt Limits
+## Chapter 13 Eligibility in Minneapolis | Requirements &amp; Debt Limits
 Source: https://minneapolisbankruptcy.org/chapter-13-eligibility.html
 
 Minneapolis Bankruptcy Guide
@@ -604,6 +708,8 @@ Chapter 13 Eligibility in Minneapolis
 Chapter 13 lets you keep property while repaying debts over 3-5 years. Here are the requirements for Minneapolis filers.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+As of April 1, 2025, the limits are $526,700 in noncontingent, liquidated unsecured debts and $1,580,125 in secured debts. If debts exceed this, Chapter 11 may be an option.
 
 Basic Requirements
 
@@ -708,15 +814,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -741,6 +865,8 @@ Chapter 13 Payments in Minneapolis
 Your Chapter 13 payment depends on income, expenses, debts, and assets. Here is how payments work in the District of Minnesota.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Depends on income, expenses, debts, and assets. Must cover priority debts in full plus your disposable income. Ranges from hundreds to thousands monthly.
 
 How Payments Are Calculated
 
@@ -855,15 +981,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -904,6 +1048,8 @@ Plan Duration
 $313
 
 Filing Fee
+
+The District of Minnesota has a 35.4% Chapter 13 dismissal rate based on 2008-2024 data from 35,287 cases. A dismissed case means the debtor got no debt relief despite months or years of payments.
 
 What Is Chapter 13?
 
@@ -1028,15 +1174,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1048,7 +1212,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Chapter 7 Eligibility in Minneapolis | Means Test & Requirements
+## Chapter 7 Eligibility in Minneapolis | Means Test &amp; Requirements
 Source: https://minneapolisbankruptcy.org/chapter-7-eligibility.html
 
 Minneapolis Bankruptcy Guide
@@ -1061,6 +1225,8 @@ Chapter 7 Eligibility in Minneapolis
 Not everyone qualifies for Chapter 7. The means test determines eligibility based on your income and expenses.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+No hard limit. The means test threshold is the Minnesota median: $62,458 for 1 person. Below = automatic qualification. Above = full calculation with expense deductions.
 
 The Means Test
 
@@ -1163,15 +1329,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1183,7 +1367,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Chapter 7 Bankruptcy in Minneapolis - Eligibility, Exemptions, Timeline
+## Chapter 7 Bankruptcy in Minneapolis [2026]: D. Minn. Process, MN Exemptions, and Timeline
 Source: https://minneapolisbankruptcy.org/chapter-7.html
 
 Minneapolis Bankruptcy Guide
@@ -1194,6 +1378,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Minneapolis
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Minneapolis residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -1334,15 +1520,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1365,6 +1569,8 @@ Home » Cities » Blaine, MN
 Bankruptcy in Blaine, MN
 
 Blaine is a northern suburb of the Twin Cities in Anoka County. It is one of the fastest-growing cities in Minnesota and home to the National Sports Center.
+
+Blaine residents file in the District of Minnesota at 316 N Robert St, St. Paul, MN 55101. The drive from Blaine is approximately 25-30 minutes south on I-35W.
 
 Key Information
 
@@ -1490,6 +1696,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Bloomington, MN - Minneapolis Bankruptcy Guide
@@ -1503,6 +1711,8 @@ Home » Cities » Bloomington, MN
 Bankruptcy in Bloomington, MN
 
 Bloomington is home to the Mall of America and Minneapolis-St. Paul International Airport. Located in southern Hennepin County, it is one of the largest suburbs in the Twin Cities metro area.
+
+Bloomington residents file in the District of Minnesota at 316 N Robert St, St. Paul, MN 55101. Despite being in the Minneapolis metro, the bankruptcy court is in St. Paul, about a 20-minute drive from Bloomington.
 
 Key Information
 
@@ -1632,6 +1842,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Brooklyn Park, MN - Minneapolis Bankruptcy Guide
@@ -1645,6 +1857,8 @@ Home » Cities » Brooklyn Park, MN
 Bankruptcy in Brooklyn Park, MN
 
 Brooklyn Park is the sixth-largest city in Minnesota, located in northern Hennepin County. It is one of the most diverse communities in the Twin Cities metro area.
+
+Brooklyn Park residents file in the District of Minnesota at 316 N Robert St, St. Paul, MN 55101. The drive from Brooklyn Park is approximately 25-30 minutes depending on traffic.
 
 Key Information
 
@@ -1772,6 +1986,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Burnsville, MN - Minneapolis Bankruptcy Guide
@@ -1785,6 +2001,8 @@ Home » Cities » Burnsville, MN
 Bankruptcy in Burnsville, MN
 
 Burnsville is a southern suburb of the Twin Cities in Dakota County, known for its diverse community and the Burnsville Center shopping area. It sits at the junction of I-35W and I-35E.
+
+Burnsville residents file in the District of Minnesota at 316 N Robert St, St. Paul, MN 55101. The courthouse is about a 25-minute drive north on I-35E.
 
 Key Information
 
@@ -1909,6 +2127,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Duluth, MN - Minneapolis Bankruptcy Guide
@@ -1922,6 +2142,8 @@ Home » Cities » Duluth, MN
 Bankruptcy in Duluth, MN
 
 Duluth is the fourth-largest city in Minnesota, located at the western tip of Lake Superior in St. Louis County. While not part of the Twin Cities metro, it is the largest city in northern Minnesota and the regional center for the Arrowhead region.
+
+Duluth residents file in the District of Minnesota, Duluth Division. The courthouse is at 515 W 1st St, Duluth, MN 55802. Unlike Twin Cities residents who file in St. Paul, Duluth-area residents have their own local courthouse for 341 meetings.
 
 Key Information
 
@@ -2054,6 +2276,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Eagan, MN - Minneapolis Bankruptcy Guide
@@ -2067,6 +2291,8 @@ Home » Cities » Eagan, MN
 Bankruptcy in Eagan, MN
 
 Eagan is a southern suburb of the Twin Cities located in Dakota County. It is home to the headquarters of several major corporations and is adjacent to the Minneapolis-St. Paul International Airport.
+
+Eagan residents file in the District of Minnesota at 316 N Robert St, St. Paul, MN 55101. The courthouse is approximately 15 minutes from Eagan via I-35E.
 
 Key Information
 
@@ -2192,6 +2418,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Eden Prairie, MN - Minneapolis Bankruptcy Guide
@@ -2205,6 +2433,8 @@ Home » Cities » Eden Prairie, MN
 Bankruptcy in Eden Prairie, MN
 
 Eden Prairie is an affluent southwestern suburb of Minneapolis in Hennepin County. Consistently ranked among the best places to live in the United States, it is home to many corporate headquarters.
+
+Yes. Financial difficulty affects people at every income level. Job loss, medical emergencies, divorce, and business failures can affect anyone. Minnesota's generous exemptions are designed to give all residents - including those with higher-value homes - a genuine fresh start.
 
 Key Information
 
@@ -2330,6 +2560,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy by City - Minneapolis Bankruptcy Guide
@@ -2431,6 +2663,30 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Bankruptcy in Lakeville, MN - Minneapolis Bankruptcy Guide
@@ -2444,6 +2700,8 @@ Home » Cities » Lakeville, MN
 Bankruptcy in Lakeville, MN
 
 Lakeville is a rapidly growing southern suburb in Dakota County, approximately 30 miles south of downtown Minneapolis. It is known for its excellent schools and numerous lakes.
+
+Lakeville residents file in the District of Minnesota at 316 N Robert St, St. Paul, MN 55101. The drive from Lakeville is approximately 35-40 minutes north on I-35.
 
 Key Information
 
@@ -2567,6 +2825,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Maple Grove, MN - Minneapolis Bankruptcy Guide
@@ -2580,6 +2840,8 @@ Home » Cities » Maple Grove, MN
 Bankruptcy in Maple Grove, MN
 
 Maple Grove is a rapidly growing northwestern suburb of Minneapolis in Hennepin County. It is known for its excellent schools, extensive park system, and the Shoppes at Arbor Lakes.
+
+Maple Grove residents file in the District of Minnesota at 316 N Robert St, St. Paul, MN 55101. The drive from Maple Grove is approximately 30-35 minutes via I-94 and I-35E.
 
 Key Information
 
@@ -2704,6 +2966,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Plymouth, MN - Minneapolis Bankruptcy Guide
@@ -2717,6 +2981,8 @@ Home » Cities » Plymouth, MN
 Bankruptcy in Plymouth, MN
 
 Plymouth is an affluent western suburb of Minneapolis in Hennepin County. It is the seventh-largest city in Minnesota and known for its high quality of life and strong economy.
+
+Yes. High income does not disqualify you from bankruptcy. If you earn above the Minnesota median, you may not qualify for Chapter 7 under the means test, but Chapter 13 is available regardless of income. Many Plymouth residents file Chapter 13 to reorganize debt.
 
 Key Information
 
@@ -2843,6 +3109,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in St. Paul, MN - Minneapolis Bankruptcy Guide
@@ -2856,6 +3124,8 @@ Home » Cities » St. Paul, MN
 Bankruptcy in St. Paul, MN
 
 St. Paul is the capital of Minnesota and the second-largest city in the Twin Cities metro. It sits directly across the Mississippi River from Minneapolis and serves as the seat of Ramsey County.
+
+St. Paul residents file in the District of Minnesota. The courthouse is at 316 N Robert St, St. Paul, MN 55101 - conveniently located in downtown St. Paul. All 341 meetings of creditors are held at this location.
 
 Key Information
 
@@ -2997,6 +3267,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Woodbury, MN - Minneapolis Bankruptcy Guide
@@ -3010,6 +3282,8 @@ Home » Cities » Woodbury, MN
 Bankruptcy in Woodbury, MN
 
 Woodbury is a fast-growing eastern suburb of St. Paul in Washington County. It is the eighth-largest city in Minnesota, known for its excellent schools and family-friendly neighborhoods.
+
+Woodbury residents file in the District of Minnesota at 316 N Robert St, St. Paul, MN 55101. The courthouse is approximately 15-20 minutes west in downtown St. Paul.
 
 Key Information
 
@@ -3134,6 +3408,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Converting Between Chapters in Minneapolis
@@ -3149,6 +3425,8 @@ Converting Between Chapters in Minneapolis
 Sometimes the chapter you filed under is not the right fit. Federal law allows conversion between Chapter 7 and Chapter 13 under certain conditions.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You have an absolute right under section 706(a), as long as you are eligible for Chapter 13 and the case was not previously converted.
 
 What Is a Bankruptcy Conversion?
 
@@ -3263,15 +3541,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3283,7 +3579,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## How Much Does Bankruptcy Cost in Minneapolis? - Filing Fees, Attorney Fees
+## Minneapolis Bankruptcy Cost [2026]: $338 D. Minn. Filing Fee Plus $1,500-$3,000 Attorney Fee
 Source: https://minneapolisbankruptcy.org/cost.html
 
 Minneapolis Bankruptcy Guide
@@ -3310,6 +3606,8 @@ Credit Counseling (2 courses)
 $1,000-$4,500
 
 Typical Attorney Fees
+
+The Chapter 7 filing fee is $338. Attorney fees in Minneapolis typically range from $1,000-$2,000. Credit counseling courses cost about $25-50 total (two required). The total cost is typically $1,400-$2,400. Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -3408,15 +3706,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3439,6 +3755,8 @@ Home›Counties
 Bankruptcy by County - Minneapolis Metro Area
 
 Your county determines which federal court handles your bankruptcy case and which state exemptions protect your property. Find your county below for specific information.
+
+The Minneapolis metro area covers 4 counties: Hennepin County, Ramsey County, Dakota County, Anoka County. Each county falls under a specific federal bankruptcy court district.
 
 4 Counties in the Minneapolis Metro
 
@@ -3538,15 +3856,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3569,6 +3905,8 @@ Home » Counties » Anoka County
 Bankruptcy in Anoka County
 
 Anoka County is north of Minneapolis and includes suburbs like Blaine, Coon Rapids, and Andover. Bankruptcy cases are filed through the District of Minnesota.
+
+Anoka County residents file in the District of Minnesota, with cases typically handled at the Minneapolis courthouse, 300 S 4th St, Minneapolis, MN 55415.
 
 Key Information
 
@@ -3662,6 +4000,8 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Dakota County - Minneapolis Bankruptcy Guide
@@ -3675,6 +4015,8 @@ Home » Counties » Dakota County
 Bankruptcy in Dakota County
 
 Dakota County is south of Minneapolis-St. Paul and includes suburbs like Eagan, Burnsville, and Apple Valley. Bankruptcy cases are filed in the District of Minnesota.
+
+Dakota County residents file in the District of Minnesota. Cases are typically handled at the Minneapolis courthouse, 300 S 4th St, Minneapolis, MN 55415. Your 341 meeting of creditors may be held at various locations in the metro area.
 
 Key Information
 
@@ -3768,9 +4110,11 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in Hennepin County - Minneapolis Bankruptcy Guide
+## Bankruptcy in Hennepin County [2026]: D. Minn. Minneapolis Division Filing and 341 Meeting Procedure
 Source: https://minneapolisbankruptcy.org/counties/hennepin-county.html
 
 Minneapolis Bankruptcy Guide
@@ -3781,6 +4125,8 @@ Home » Counties » Hennepin County
 Bankruptcy in Hennepin County
 
 Hennepin County is the most populous county in Minnesota and home to Minneapolis. It is the center of the Twin Cities metro area and handles the largest volume of bankruptcy filings in the state.
+
+Hennepin County cases are filed in the District of Minnesota, Minneapolis Division. The courthouse is at 300 S 4th St, Minneapolis, MN 55415. This court handles the majority of Minnesota bankruptcy filings.
 
 Key Information
 
@@ -3874,9 +4220,11 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in Ramsey County - Minneapolis Bankruptcy Guide
+## Bankruptcy in Ramsey County [2026]: D. Minn. St. Paul Division Filing and 341 Meeting Procedure
 Source: https://minneapolisbankruptcy.org/counties/ramsey-county.html
 
 Minneapolis Bankruptcy Guide
@@ -3887,6 +4235,8 @@ Home » Counties » Ramsey County
 Bankruptcy in Ramsey County
 
 Ramsey County is home to St. Paul, Minnesota's capital and the other half of the Twin Cities. Bankruptcy cases are filed in the St. Paul Division of the District of Minnesota.
+
+Ramsey County cases are filed in the District of Minnesota. Hearings may be held at 316 N Robert St, St. Paul, MN 55101 or at the Minneapolis courthouse. The specific location depends on the assigned judge.
 
 Key Information
 
@@ -3980,6 +4330,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Minneapolis Federal Bankruptcy Court Guide - D. Minnesota Filing Information [2026]
@@ -3993,6 +4345,8 @@ Home›Minneapolis Bankruptcy Guide›Court Guide
 Minneapolis Federal Bankruptcy Court Guide
 
 Everything you need to know about the United States Bankruptcy Court for the District of Minnesota. Address, filing hours, local rules, trustee panel, and pro se resources.
+
+File at the U.S. Courthouse, 300 S. Fourth St, Suite 301, Minneapolis, MN 55415. Complete credit counseling first, prepare your petition and schedules, and pay the filing fee. Attorneys must file electronically through CM/ECF.
 
 Court Location and Contact
 
@@ -4115,7 +4469,7 @@ howmuchdoesbankruptcycost.com
 bankruptcyexemptionsbystate.com
 prosebankruptcy.org
 
-170+ domains. 10,000+ pages. $0 advertising. No lead generation. Just information.
+213+ domains. 44,000+ pages. $0 advertising. No lead generation. Just information.
 
 Related Minneapolis Bankruptcy Resources
 
@@ -4129,13 +4483,33 @@ Exemptions
 
 Bankruptcy Cost
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -4152,6 +4526,8 @@ Rebuilding Credit After Bankruptcy in Minneapolis
 Bankruptcy is not the end of your financial life - it is a reset. Most Minneapolis filers see meaningful credit score improvement within 12-24 months and can qualify for major purchases within a few years.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7: 10 years. Chapter 13: 7 years. The impact diminishes over time, especially with active rebuilding.
 
 How Long Bankruptcy Stays on Your Credit Report
 
@@ -4286,15 +4662,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4319,6 +4713,8 @@ Credit Card Debt and Bankruptcy in Minneapolis
 Credit card debt is the most common type of unsecured debt eliminated in bankruptcy. Here is how it works for Minneapolis residents filing in the District of Minnesota.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Credit card debt is general unsecured debt and is fully dischargeable in Chapter 7. In Chapter 13, you pay a percentage through your plan and the rest is discharged. Exceptions exist for luxury purchases over $900 within 90 days and cash advances over $1,250 within 70 days of filing.
 
 Can Bankruptcy Eliminate Credit Card Debt?
 
@@ -4350,7 +4746,7 @@ Exceptions: When Credit Card Debt Is NOT Dischargeable
 
 Under 11 U.S.C. section 523(a)(2), credit card debt may be non-dischargeable if a creditor proves fraud:
 
-Luxury goods over $800 charged within 90 days of filing are presumed non-dischargeable
+Luxury goods over $900 charged within 90 days of filing are presumed non-dischargeable
 
 Cash advances over $1,250 taken within 70 days of filing are presumed non-dischargeable
 
@@ -4429,15 +4825,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4460,6 +4874,8 @@ Home›Using Credit Cards Before Filing Bankruptcy
 Using Credit Cards Before Filing Bankruptcy
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
+
+Using credit cards when you know you will file bankruptcy can be considered fraud. The Bankruptcy Code presumes fraud for luxury goods purchases over $725 within 90 days and cash advances over $1,000 within 70 days of filing. Best practice: stop using all credit cards immediately once you decide to
 
 What You Need to Know
 
@@ -4504,13 +4920,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4533,6 +4969,8 @@ Home›Debtor Education in Minneapolis - Minnesota Credit Counseling & Financial
 Debtor Education Requirements in Minneapolis, Minnesota
 
 Minnesota is a single-district state with a $450,000 homestead exemption and one of the lowest Chapter 13 dismissal rates in the country. Here is everything Twin Cities filers need to know about mandatory courses, D. Minn. court locations, and Minnesota's debtor-friendly exemption scheme.
+
+Minneapolis filers must complete two courses: (1) pre-filing credit counseling from a DOJ-approved provider within 180 days before filing, and (2) a post-filing debtor education (financial management) course before discharge. Minnesota has no additional state-level course requirements. Courses cost $10-$50 each and are available online, by phone, or in person.
 
 Two Required Courses
 
@@ -4748,13 +5186,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4779,6 +5237,8 @@ What Can Disqualify You From Bankruptcy in Minneapolis
 Most people can file, but certain circumstances may temporarily or permanently prevent filing. Here is what Minneapolis residents need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Common barriers: prior discharge within time limits (2-8 years depending on chapters), recent dismissals, failure to complete credit counseling, missing tax returns, and means test failure for Chapter 7.
 
 Prior Bankruptcy Filings
 
@@ -4873,15 +5333,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4904,6 +5382,8 @@ Home›Find Your Bankruptcy District - Minneapolis Bankruptcy Guide›Find Your 
 Find Your Bankruptcy District
 
 Enter your zip code to find which federal bankruptcy court handles cases in your area. Minnesota has a single district covering the entire state.
+
+Minneapolis is in the District of Minnesota, which is the only federal bankruptcy district in the state. The courthouse is located at 300 S 4th St, Minneapolis, MN 55415. All Minnesota zip codes (550xx-567xx) are in this district.
 
 Zip Code Lookup
 
@@ -4976,15 +5456,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5009,6 +5507,8 @@ Divorce and Bankruptcy in Minneapolis
 Divorce and bankruptcy frequently overlap. Understanding how they interact - including timing, joint debts, support obligations, and property division - is critical for Minneapolis residents navigating both.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+It depends on your situation. Filing bankruptcy before divorce can simplify property division by eliminating joint debts. Filing after divorce may be necessary if your income is too high to pass the means test as a married couple. A joint Chapter 7 filing before divorce can save on filing fees and attorney costs.
 
 Timing: Before or After Divorce?
 
@@ -5156,15 +5656,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5189,6 +5707,8 @@ Emergency Bankruptcy Filing in Minneapolis
 When you are facing an imminent foreclosure sale, repossession, garnishment, or eviction, an emergency bankruptcy filing can trigger the automatic stay the same day. Here is how it works in the District of Minnesota.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+An emergency bankruptcy filing (also called a bare-bones or skeleton petition) is when you file just the petition and a few essential documents to immediately trigger the automatic stay under 11 U.S.C. section 362. You then have 14 days to file the remaining schedules and documents. This is used when you need same-day protection from garnishment, foreclosure, repossession, or eviction.
 
 What Is an Emergency Bankruptcy Filing?
 
@@ -5324,15 +5844,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5355,6 +5893,8 @@ Home›Bankruptcy and Employment: Can You Get Fired?
 Bankruptcy and Employment: Can You Get Fired?
 
 A free guide for Minnesota residents. Filed in D. Minn..
+
+Federal law (11 U.S.C. Section 525(a)) prohibits government employers from terminating, refusing to hire, or discriminating against you because of a bankruptcy filing. For private employers, the protection is more limited - they generally cannot fire you for filing, but some courts allow them to co
 
 What You Need to Know
 
@@ -5400,13 +5940,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5429,6 +5989,8 @@ Home›Can I Keep My Engagement Ring in Bankruptcy?
 Can I Keep My Engagement Ring in Bankruptcy?
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
+
+Whether you can keep your engagement ring depends on your state's jewelry exemption. Exemption amounts vary wildly - from $150 in Arizona to unlimited in Texas. If your ring's value exceeds the exemption, the trustee could potentially sell it (though this is rare in practice for modest rings). Many
 
 What You Need to Know
 
@@ -5475,13 +6037,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5504,6 +6086,8 @@ Home›Can Bankruptcy Stop an Eviction?
 Can Bankruptcy Stop an Eviction?
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
+
+The automatic stay under Section 362 temporarily halts most eviction proceedings. However, Section 362(b)(22) limits protection if your landlord already has a judgment for possession. In Chapter 13, you may be able to cure rent arrears through your plan. Timing matters - file before the judgment if
 
 What You Need to Know
 
@@ -5548,13 +6132,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5577,6 +6181,8 @@ Home›Exemptions
 Minnesota Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding them is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Minnesota's homestead exemption protects $450,000 of equity in your primary residence. Equity is the difference between your home's value and what you owe on the mortgage.
 
 What Are Exemptions?
 
@@ -5667,15 +6273,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5687,7 +6311,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Minneapolis Bankruptcy FAQ - 18 Common Questions Answered
+## Minneapolis Bankruptcy FAQ [2026]: D. Minn. Procedures, MN Exemptions, and 18 Common Questions
 Source: https://minneapolisbankruptcy.org/faq.html
 
 Minneapolis Bankruptcy Guide
@@ -5698,6 +6322,8 @@ Home›FAQ
 Frequently Asked Questions
 
 Answers to the 18 most common questions from Minneapolis residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,000-$2,000 for Chapter 7 and $3,000-$4,500 for Chapter 13. Credit counseling costs about $25-50 total. Fee waivers available for low-income Chapter 7 filers.
 
 Cost and Eligibility
 
@@ -5810,15 +6436,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5841,6 +6485,8 @@ Home›How to Find Out if Someone Filed Bankruptcy
 How to Find Out if Someone Filed Bankruptcy
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
+
+All bankruptcy filings are public record. Search PACER (Public Access to Court Electronic Records) at pacer.gov for $0.10 per page. Free alternatives include RECAP (courtlistener.com/recap/) which mirrors many PACER documents. You can also call the bankruptcy court clerk directly or visit in person.
 
 What You Need to Know
 
@@ -5885,13 +6531,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5916,6 +6582,8 @@ Bankruptcy Glossary for Minneapolis Filers
 Bankruptcy has its own vocabulary. This glossary defines key terms in plain language for filers in the District of Minnesota.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Discharge eliminates your liability on eligible debts - the successful outcome. Dismissal terminates the case without a discharge, leaving you still owing all debts.
 
 A-D
 
@@ -5989,7 +6657,7 @@ Trustee - Court-appointed official administering the case.
 
 Unsecured Debt - Debt without collateral (credit cards, medical bills).
 
-Wildcard Exemption - Exemption applicable to any property. Federal: $1,475 plus up to $13,950 of unused homestead.
+Wildcard Exemption - Exemption applicable to any property. Federal: $1,675 plus up to $15,800 of unused homestead.
 
 Frequently Asked Questions
 
@@ -6038,15 +6706,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6071,6 +6757,8 @@ Bankruptcy Income Limits in Minneapolis
 Your income determines which chapter you can file, plan length, and payment amount. Here are Minnesota income thresholds for the District of Minnesota.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 means test threshold: $62,458 for 1 person. Below = automatic pass. Above = detailed calculation. Chapter 13 has no income limit.
 
 Minnesota Median Income for Means Test
 
@@ -6171,15 +6859,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6191,13 +6897,13 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Minneapolis Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Minneapolis Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://minneapolisbankruptcy.org/
 
 Skip to main content
 
 Minneapolis Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 Compliance Guide
 
 Minneapolis Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -6221,6 +6927,8 @@ Discharge Rate
 $338
 
 Chapter 7 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Minneapolis typically range from $1,000-$2,000 for Chapter 7 and $3,000-$4,500 for Chapter 13. You will also need to pay for required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -6399,19 +7107,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -6497,6 +7219,73 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Automatic Stay
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 13 Payments
+Chapter 7 Eligibility
+Converting Chapters
+Credit After Bankruptcy
+Credit Card Debt
+Credit Cards Before Filing
+Debtor Education
+Disqualifications
+District Lookup
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Glossary
+Income Limits
+Index
+Judgments
+Legal Aid
+Medical Debt Only
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Resources
+Retirement Accounts
+Second Mortgage
+Security Clearance
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeshare
+Travel Chapter 13
+
 ---
 
 ## Judgments and Bankruptcy in Minneapolis
@@ -6512,6 +7301,8 @@ Judgments and Bankruptcy in Minneapolis
 If a creditor has a judgment against you, they can garnish wages, levy accounts, and lien property. Bankruptcy can stop enforcement and may eliminate the debt.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, if the underlying debt is dischargeable. Most judgments from credit cards, medical bills, and personal loans can be discharged. Fraud, support, and DUI judgments cannot.
 
 What Is a Judgment?
 
@@ -6622,15 +7413,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6653,6 +7462,8 @@ Home›Free Legal Help for Bankruptcy in Minneapolis | Minneapolis Bankruptcy Gu
 Free Legal Help for Bankruptcy in Minneapolis
 
 If you are struggling with debt but cannot afford a bankruptcy attorney, these Minneapolis-area organizations may be able to help - for free or at reduced cost.
+
+Yes. Several organizations in Minneapolis provide free legal assistance for bankruptcy cases, including Mid-Minnesota Legal Aid and the Volunteer Lawyers Network. Eligibility is generally based on income, typically at or below 125-200% of the federal poverty level.
 
 Minneapolis Legal Aid Organizations
 
@@ -6768,13 +7579,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6799,6 +7630,8 @@ Minneapolis Means Test: Do You Qualify for Chapter 7?
 The means test determines whether you can file Chapter 7 bankruptcy. Your income is compared to the Minnesota median income for your household size. Here is how it works for Minneapolis residents filing in the D. Minn.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The means test is a calculation required for Chapter 7 bankruptcy that compares your income to the median income in your state. If your income is below the Minnesota median for your household size, you automatically qualify for Chapter 7. If above, you must pass a second calculation that factors in your allowed expenses.
 
 What Is the Means Test?
 
@@ -6948,15 +7781,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024) and the U.S. Trustee Program.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6979,6 +7830,8 @@ Home›Can I File Bankruptcy on Medical Debt Only?
 Can I File Bankruptcy on Medical Debt Only?
 
 A free guide for Minnesota residents. Filed in D. Minn..
+
+You cannot selectively file bankruptcy on just one type of debt - all debts must be listed in your petition. However, medical debt IS fully dischargeable in both Chapter 7 and Chapter 13. If medical bills are your primary burden, Chapter 7 may eliminate them entirely in 3-4 months. Before filing, c
 
 What You Need to Know
 
@@ -7024,13 +7877,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7055,6 +7928,8 @@ Payday Loans and Bankruptcy in Minneapolis
 Payday loans carry extreme interest rates - often 400% APR or higher. Bankruptcy can eliminate payday loan debt, but there are important considerations.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt, dischargeable in both Chapter 7 and Chapter 13.
 
 Can Bankruptcy Eliminate Payday Loans?
 
@@ -7141,15 +8016,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7172,6 +8065,8 @@ Home›Can I Undo a Reaffirmation Agreement?
 Can I Undo a Reaffirmation Agreement?
 
 A free guide for Minnesota residents. Filed in D. Minn..
+
+You have 60 days after the reaffirmation agreement is filed with the court to rescind (cancel) it. After 60 days, your options are limited. You can voluntarily surrender the property, refinance the loan, or negotiate with the creditor. If the reaffirmation was not properly disclosed or you were not
 
 What You Need to Know
 
@@ -7217,13 +8112,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7246,6 +8161,8 @@ Home›Renting an Apartment After Bankruptcy
 Renting an Apartment After Bankruptcy
 
 A free guide for Minnesota residents. Filed in D. Minn..
+
+Finding an apartment after bankruptcy is possible but requires strategy. Most large property management companies run credit checks and will see the bankruptcy. Smaller landlords and individual owners are often more flexible. Tips: offer a larger security deposit, provide references from previous la
 
 What You Need to Know
 
@@ -7291,13 +8208,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7320,6 +8257,8 @@ Home›Can Bankruptcy Remove a Repossession From Your Credit?
 Can Bankruptcy Remove a Repossession From Your Credit?
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
+
+Bankruptcy does not remove a repossession entry from your credit report. However, filing bankruptcy discharges the deficiency balance - the amount you still owe after the repo and sale. Your credit report should show the balance as $0 after discharge. If it still shows a balance, dispute it with th
 
 What You Need to Know
 
@@ -7364,13 +8303,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7393,6 +8352,8 @@ Home›Resources
 Minneapolis Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process.
+
+The District of Minnesota bankruptcy court is at 316 N Robert St, Suite 100, St. Paul, MN 55101 (phone: (651) 848-1000).
 
 Bankruptcy Court
 
@@ -7517,15 +8478,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7548,6 +8527,8 @@ Home›Can I Keep My 401k and Retirement in Bankruptcy?
 Can I Keep My 401k and Retirement in Bankruptcy?
 
 A free guide for Minnesota residents. Filed in D. Minn..
+
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA
 
 What You Need to Know
 
@@ -7593,13 +8574,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7624,6 +8625,8 @@ Second Mortgages and Bankruptcy in Minneapolis
 If you have a second mortgage or HELOC and are underwater, Chapter 13 bankruptcy may offer relief through lien stripping.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+A Chapter 13 process removing a second mortgage when home value is less than the first mortgage balance. The second mortgage becomes unsecured debt in the plan.
 
 What Is Lien Stripping?
 
@@ -7724,15 +8727,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7755,6 +8776,8 @@ Home›Bankruptcy and Security Clearance
 Bankruptcy and Security Clearance
 
 A free guide for Minnesota residents. Filed in D. Minn..
+
+Filing bankruptcy does NOT automatically revoke your security clearance. In fact, the Department of Defense adjudicative guidelines consider financial irresponsibility a greater risk than filing bankruptcy. Filing shows you are taking responsible steps to address your debt. Many clearance holders fi
 
 What You Need to Know
 
@@ -7800,13 +8823,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7818,7 +8861,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Minneapolis Bankruptcy Statistics - 35,287 Cases Analyzed
+## Minneapolis Bankruptcy Statistics [2026]: 35,287 D. Minn. Cases Analyzed With Year-Over-Year Data
 Source: https://minneapolisbankruptcy.org/statistics.html
 
 Minneapolis Bankruptcy Guide
@@ -7853,6 +8896,8 @@ Est. 1328(f) Violations
 4.0%
 
 Pro Se Rate
+
+Between 2008 and 2024, the District of Minnesota saw 35,287 Chapter 13 filings. Filing volumes peaked around 2010-2011 following the financial crisis and have generally declined since.
 
 What These Numbers Mean for You
 
@@ -7943,15 +8988,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7975,6 +9038,8 @@ What Bills Can I Stop Paying Before Filing?
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
 
+Before filing bankruptcy, you can strategically stop paying unsecured debts like credit cards and medical bills. Keep paying your mortgage, car payment, utilities, child support, and alimony. Be aware of the 90-day preference period - large payments to specific creditors before filing can be clawed
+
 What You Need to Know
 
 Before filing bankruptcy, you can strategically stop paying unsecured debts like credit cards and medical bills. Keep paying your mortgage, car payment, utilities, child support, and alimony. Be aware of the 90-day preference period - large payments to specific creditors before filing can be clawed back. Do not take cash advances or make luxury purchases on credit cards within 70-90 days of filing.
@@ -8018,13 +9083,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8048,6 +9133,8 @@ Surrendering Your Car in Bankruptcy
 
 A free guide for Minnesota residents. Filed in D. Minn..
 
+Voluntary surrender means you return the vehicle to the lender. In Chapter 7, the remaining deficiency balance (what you owe minus the car's value) is discharged. You will not owe anything after discharge. The process: notify your attorney, the lender arranges pickup, you remove personal belongings.
+
 What You Need to Know
 
 Voluntary surrender means you return the vehicle to the lender. In Chapter 7, the remaining deficiency balance (what you owe minus the car's value) is discharged. You will not owe anything after discharge. The process: notify your attorney, the lender arranges pickup, you remove personal belongings. Timeline is typically 30-60 days after filing. Getting a new car after surrender is possible but expect higher interest rates initially.
@@ -8092,13 +9179,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8121,6 +9228,8 @@ Home›Will the Chapter 13 Trustee Take My Tax Refund?
 Will the Chapter 13 Trustee Take My Tax Refund?
 
 A free guide for Minnesota residents. Filed in D. Minn..
+
+In most districts, the Chapter 13 trustee requires you to turn over tax refunds above a certain threshold (typically $2,000-$3,000, varies by trustee). Your plan may include specific provisions about tax refunds. You can request a plan modification to retain your refund for a necessary expense. File
 
 What You Need to Know
 
@@ -8166,13 +9275,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8196,6 +9325,8 @@ Timeshares and Bankruptcy
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
 
+You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under
+
 What You Need to Know
 
 You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under the discharge injunction.
@@ -8239,13 +9370,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8268,6 +9419,8 @@ Home›Can I Travel During Chapter 13?
 Can I Travel During Chapter 13?
 
 A free guide for Minnesota residents considering bankruptcy. Filed in D. Minn..
+
+There is no legal restriction on domestic travel during Chapter 13. For international travel, some trustees ask to be notified for extended trips. Luxury vacations may draw scrutiny if the trustee believes you have disposable income that should go to creditors. Budget travel and visiting family are
 
 What You Need to Know
 
@@ -8312,13 +9465,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8341,6 +9514,8 @@ Home›What to Expect
 What to Expect When Filing Bankruptcy
 
 The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish.
+
+The 341 meeting is a brief hearing where the bankruptcy trustee asks you questions under oath about your financial situation. Bring photo ID and proof of Social Security number. Most meetings last only 5-10 minutes. Creditors may attend but rarely do.
 
 Chapter 7 Timeline
 
@@ -8499,15 +9674,33 @@ Minneapolis Exemptions
 
 Bankruptcy Cost in Minneapolis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8575,7 +9768,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -8585,6 +9778,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About minneapolisbankruptcy.org
+Source: https://minneapolisbankruptcy.org/about.html
+
+minneapolisbankruptcy.org
+
+Home
+About
+Privacy
+
+About minneapolisbankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+minneapolisbankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
