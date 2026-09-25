@@ -611,7 +611,7 @@ Chapter 13 is available to individuals with regular income under 11 U.S.C. secti
 
 Regular income: Wages, self-employment, Social Security, pension, or regular family contributions
 
-Debt limits: Total noncontingent, liquidated debts must not exceed $2,750,000 (combined secured and unsecured)
+Debt limits: Noncontingent, liquidated debts must not exceed $526,700 unsecured and $1,580,125 secured
 
 Credit counseling: Required within 180 days before filing
 
@@ -665,7 +665,7 @@ Frequently Asked Questions
 
 What is the debt limit for Chapter 13?
 
-As of 2024, the combined limit is $2,750,000 for all noncontingent, liquidated debts. If debts exceed this, Chapter 11 may be an option.
+As of April 1, 2025, the limits are $526,700 in noncontingent, liquidated unsecured debts and $1,580,125 in secured debts. If debts exceed this, Chapter 11 may be an option.
 
 Is there an income limit?
 
@@ -3174,7 +3174,7 @@ Must have regular income for a Chapter 13 plan
 
 Case must not have been previously converted from Chapter 13
 
-Must be eligible for Chapter 13 (debts within $2,750,000 limit)
+Must be eligible for Chapter 13 (debts within the section 109(e) limits: $526,700 unsecured, $1,580,125 secured)
 
 Chapter 13 to Chapter 7
 
@@ -4352,7 +4352,7 @@ Under 11 U.S.C. section 523(a)(2), credit card debt may be non-dischargeable if 
 
 Luxury goods over $800 charged within 90 days of filing are presumed non-dischargeable
 
-Cash advances over $1,100 taken within 70 days of filing are presumed non-dischargeable
+Cash advances over $1,250 taken within 70 days of filing are presumed non-dischargeable
 
 Fraud: If you obtained credit with no intention of repaying or by providing false financial information
 
@@ -4822,7 +4822,7 @@ Missing tax returns: Must have filed for the 4 most recent years
 
 Fraud or abuse: Court can dismiss for bad faith under section 707(b)
 
-Debt limits (Chapter 13): Combined debts over $2,750,000 disqualify from Chapter 13
+Debt limits (Chapter 13): Combined debts over the section 109(e) limits ($526,700 unsecured or $1,580,125 secured) disqualify from Chapter 13
 
 Not an individual: Only individuals can file Chapter 13
 
@@ -6848,7 +6848,7 @@ If your income exceeds the median, you proceed to Part 2. You deduct IRS-approve
 
 5Calculate disposable income
 
-Subtract your total allowed deductions from your CMI. Multiply the remaining monthly disposable income by 60. If the result is less than $9,075, you pass the means test. If it is more than $15,150, you fail. Between those amounts, further analysis is needed.
+Subtract your total allowed deductions from your CMI. Multiply the remaining monthly disposable income by 60. If the result is less than $10,275, you pass the means test. If it is more than $17,150, you fail. Between those amounts, further analysis is needed.
 
 6File the appropriate form
 
@@ -7551,7 +7551,7 @@ A free guide for Minnesota residents. Filed in D. Minn..
 
 What You Need to Know
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 In Minnesota: Minnesota provides generous retirement protection beyond federal ERISA.
 
@@ -7561,7 +7561,7 @@ Frequently Asked Questions
 
 Can I Keep My 401k and Retirement in Bankruptcy?
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 How does this work in Minnesota?
 
